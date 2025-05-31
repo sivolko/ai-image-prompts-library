@@ -5,7 +5,9 @@
 
 ## 📁 **Repository Contents**
 - **[README.md](README.md)** - Complete original prompt library (20+ categories)
-- **[NEW_CREATIVE_PROMPTS.md](NEW_CREATIVE_PROMPTS.md)** - New creative prompts (Creativity, Cities & Glass Dioramas)
+- **[NEW_CREATIVE_PROMPTS.md](NEW_CREATIVE_PROMPTS.md)** - Creative workspaces, cities & glass dioramas
+- **[ADVANCED_CREATIVE_PROMPTS.md](ADVANCED_CREATIVE_PROMPTS.md)** - New thematic territories exploration
+- **[FIFTY_UNIQUE_PROMPTS.md](FIFTY_UNIQUE_PROMPTS.md)** - 50 revolutionary out-of-the-box prompts
 
 ---
 
@@ -30,11 +32,32 @@ This library contains **20+ categories** of AI image generation prompts designed
 - **Upload-your-own-image** integration capabilities
 - **Cross-platform compatibility**
 
-### 🆕 **New Creative Prompts Available!**
-Check out **[NEW_CREATIVE_PROMPTS.md](NEW_CREATIVE_PROMPTS.md)** for additional prompts including:
+### 🆕 **New Collections Available!**
+
+**🎨 [NEW_CREATIVE_PROMPTS.md](NEW_CREATIVE_PROMPTS.md)** - Creative & Urban Themes:
 - 🎨 **Creative Workspaces** - Artist studios, creative mind explosions
 - 🏙️ **Urban Landscapes** - Cyberpunk streets, vintage cities
 - 🔮 **Cities in Glass** - Snow globes, wine glasses, terrariums containing entire metropolises
+
+**🚀 [ADVANCED_CREATIVE_PROMPTS.md](ADVANCED_CREATIVE_PROMPTS.md)** - New Thematic Territories:
+- 🍃 **Food as Landscapes** - Macro food photography as epic natural scenes
+- 🌊 **Underwater Impossible Worlds** - Everyday environments completely submerged
+- 🏗️ **Gravity-Defying Architecture** - Buildings that break physics
+- 💎 **Crystalline Transformations** - Objects turned into crystal/gemstone
+- ⛈️ **Weather Indoors** - Outdoor weather phenomena inside homes
+- 🌙 **Bioluminescent Nightscapes** - Dark scenes lit by glowing organic elements
+
+**⚡ [FIFTY_UNIQUE_PROMPTS.md](FIFTY_UNIQUE_PROMPTS.md)** - Revolutionary Boundary-Pushing:
+- 🧠 **Consciousness Visualization** - Thoughts, emotions, psychology made tangible
+- ⚛️ **Abstract Physics** - Invisible forces and fields made visible
+- 🔬 **Scale Transcendence** - Molecular/quantum phenomena at human scale
+- 💻 **Digital-Physical Fusion** - Technology bleeding into reality
+- 🗣️ **Communication Innovation** - Alternative forms of information exchange
+- ⏰ **Temporal Manipulation** - Time, causality, and memory distortions
+- 🏠 **Environmental Psychology** - Spaces and objects with personalities
+- 🎵 **Synesthetic Reality** - Cross-sensory experiences made visual
+- 🌊 **Impossible Materials** - Physics-defying substances and textures
+- 🔄 **Causal Paradoxes** - Effects before causes, backwards time flow
 
 ---
 
