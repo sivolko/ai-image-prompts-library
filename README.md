@@ -3,6 +3,12 @@
 
 ---
 
+## 📁 **Repository Contents**
+- **[README.md](README.md)** - Complete original prompt library (20+ categories)
+- **[NEW_CREATIVE_PROMPTS.md](NEW_CREATIVE_PROMPTS.md)** - New creative prompts (Creativity, Cities & Glass Dioramas)
+
+---
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Prompt Categories](#prompt-categories)
@@ -23,6 +29,12 @@ This library contains **20+ categories** of AI image generation prompts designed
 - **Multi-step refinement** techniques
 - **Upload-your-own-image** integration capabilities
 - **Cross-platform compatibility**
+
+### 🆕 **New Creative Prompts Available!**
+Check out **[NEW_CREATIVE_PROMPTS.md](NEW_CREATIVE_PROMPTS.md)** for additional prompts including:
+- 🎨 **Creative Workspaces** - Artist studios, creative mind explosions
+- 🏙️ **Urban Landscapes** - Cyberpunk streets, vintage cities
+- 🔮 **Cities in Glass** - Snow globes, wine glasses, terrariums containing entire metropolises
 
 ---
 
